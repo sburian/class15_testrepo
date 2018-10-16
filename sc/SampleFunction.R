@@ -7,4 +7,6 @@ myfunction <- function(x,y){
   }
 }
 
+#I added a comment line here
+#This next line of code executes the function
 z<-myfunction(x=10,y=5)
